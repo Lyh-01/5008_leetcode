@@ -1,3 +1,7 @@
+/*
+ *Yihan Lu
+ *https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/
+ */
 #include <stddef.h>
 
 struct TreeNode {

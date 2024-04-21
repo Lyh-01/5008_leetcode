@@ -1,3 +1,7 @@
+/*
+ *Yihan Lu
+ *https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
+ */
 int findTheCity (int n, int** edges, int edgesSize, int* edgesColSize, int distanceThreshold) {
 	int i, j, k;
 	int cnt, ret, min;

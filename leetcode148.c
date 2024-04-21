@@ -1,3 +1,8 @@
+/*
+ *Yihan Lu
+ *https://leetcode.com/problems/sort-list/description/
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 /**

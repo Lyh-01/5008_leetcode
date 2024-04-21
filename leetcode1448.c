@@ -1,3 +1,7 @@
+/*
+ *Yihan Lu
+ *https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+ */
 struct TreeNode {
       int val;
       struct TreeNode *left;

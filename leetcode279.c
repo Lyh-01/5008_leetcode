@@ -1,3 +1,7 @@
+/*
+ * Yihan Lu
+ * https://leetcode.com/problems/perfect-squares/description/
+ */
 #include <limits.h>
 #include <math.h>
 
